@@ -16,3 +16,5 @@ Koulusafkaa.
 16.3.2022
 
 Ok, curry maistui. Mmhm...
+
+![](img_4327.jpg)
