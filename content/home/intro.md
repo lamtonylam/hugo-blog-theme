@@ -18,4 +18,6 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
-Huonoja, tai hyviä mietteitä. Päätä lukijana itse.
+Huonoja, tai hyviä mietteitä. Päätä lukijana itse.  
+
+[https://linkedin.com/in/lamtonylam/](https://www.linkedin.com/in/lamtonylam/)
